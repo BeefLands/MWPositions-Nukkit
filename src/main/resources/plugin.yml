@@ -1,0 +1,7 @@
+name: MWPositions
+main: io.github.jaronz.mwpositions.MWPositions
+version: "1.0.0"
+api: ["1.0.0"]
+
+author: JaronZ
+description: Plugin that saves and restores the last position of a player per world

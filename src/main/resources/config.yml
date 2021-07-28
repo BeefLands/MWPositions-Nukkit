@@ -1,0 +1,12 @@
+# Do not edit this!
+players: {}
+
+# The world the player gets teleported to when joining
+# Spawns the player to the spawn of the world
+# Set to "" for no start world
+startWorld: ""
+
+# Worlds that get ignored when recovering a players position
+ignoredWorlds:
+  - exampleWorld
+  - exampleWorld2
